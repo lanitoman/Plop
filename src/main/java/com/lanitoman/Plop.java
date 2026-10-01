@@ -1,4 +1,4 @@
 package com.lanitoman;
 
-public class Main {
+public class Plop {
 }
